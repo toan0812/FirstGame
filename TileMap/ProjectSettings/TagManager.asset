@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - fruits
+  - trap
+  - checkPoint
+  - Appies
+  - Orangies
+  - GM
+  - Point1
+  - Ground
+  - Health
+  - Boss
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Background
+  - trap
+  - Ground
+  - Collectable
+  - boss
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Back Ground
+    uniqueID: 1664917913
+    locked: 0
+  - name: Spike
+    uniqueID: 667270393
+    locked: 0
+  - name: Terrain
+    uniqueID: 2285282703
+    locked: 0
+  - name: Player
+    uniqueID: 3230346997
+    locked: 0
+  - name: enemies
+    uniqueID: 2232486697
+    locked: 0
